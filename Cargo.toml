@@ -1,4 +1,5 @@
 [workspace]
 members = [
     "macos_binding/dispatch",
+    "macos_binding/abstr",
 ]
